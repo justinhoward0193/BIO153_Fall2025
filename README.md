@@ -1,6 +1,6 @@
 # Instructor’s Use of AI
 
-In this course, I (Justin N. Howard) fully adopt AI tools as part of my teaching practice.  
+In this course, I fully adopt AI tools as part of my teaching practice.  
 **AI is like a microscope**—in biology it can reveal patterns and prompt better questions, but the observing, interpreting, and explaining still come from the scientist.
 
 All course materials originate from **textbooks, curated research papers, my personal writing projects, videos, and my teaching library.**  
